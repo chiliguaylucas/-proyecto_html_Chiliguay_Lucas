@@ -1,0 +1,33 @@
+body{
+    height: 100%;
+    display: flex;
+    background-color: rgb(192, 192, 192);
+    justify-content: center;
+    align-content: center;
+    position: relative;
+}
+div{
+    height: 100px;
+    width: 100px;
+    border-radius: 50% 0% 50% 50%;
+    margin-top: 200px;
+}
+#id1{
+    background-color: rgb(233, 74, 212);
+    border-radius: 50% 50% 50% 0%;
+    margin-left: 100px;
+    margin-top: 250px;    
+}
+
+#id2{
+    background-color: rgb(63, 214, 202);
+    margin-left: -150px;
+    margin-top: 300px;
+}
+
+#id3{
+    background-color: black;
+    margin-top: 350px;
+    margin-left: -150px;
+    
+}

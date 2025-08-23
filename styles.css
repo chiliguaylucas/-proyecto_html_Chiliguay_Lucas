@@ -92,8 +92,8 @@ gap: 10px;
         justify-content: space-between; 
     }
  .product-card img {
-  max-height: 80px; /* todas las imágenes tendrán el mismo alto máximo */
-  object-fit: contain; /* mantiene proporciones sin deformar */
+  max-height: 80px; 
+  object-fit: contain; 
 }
 
 .footer {
